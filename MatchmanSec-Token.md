@@ -21,7 +21,8 @@ MatchmanSec-Token是由MatchmanSec团队开发并管理的虚拟货币项目。�
 
 ## 如何获取 MatchmanSec-Token
 
-目前，MatchmanSec-Token可以通过参与MatchmanSec团队的各种活动来获取。
+目前，代币未上架任何CEX或者DEX 团队正在与交易所和各方二级市场项目团队沟通合作  唯一获取MatchmanSec-Token可以通过参与MatchmanSec团队的各种活动来获取 。
+
 
 ## 如何使用 MatchmanSec-Token
 
