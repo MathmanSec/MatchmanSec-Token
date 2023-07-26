@@ -26,11 +26,18 @@ MatchmanSec-Token是由MatchmanSec团队开发并管理的虚拟货币项目。�
 
 ## 如何使用 MatchmanSec-Token
 
-持有MatchmanSec-Token的用户可以使用它们来参与我们团队的决策过程。
+
+在未来我们将会上线DAO模式的运营 持有MatchmanSec-Token的持有MatchmanSec-Token的用户可以使用它们来参与我们团队的决策过程(投票)
 
 ## 反馈与支持
 
 我们欢迎任何形式的反馈和建议。如果你在使用MatchmanSec-Token过程中遇到任何问题，或者有任何建议或想法请移步issues
+
+## 团队发展规划
+![image](https://github.com/MathmanSec/MatchmanSec-Token/assets/140636689/0142d9ad-60e0-4d60-a4cf-6e002f077d93)
+
+
+
 
 
 
