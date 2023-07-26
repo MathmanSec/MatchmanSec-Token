@@ -1,3 +1,35 @@
+# MatchmanSec-Token
+
+The MatchmanSec-Token is a virtual currency project developed and managed by the MatchmanSec team. It's designed for team management, enabling holders to participate in team voting decisions. Please note that this is a social experiment and the MatchmanSec-Token itself doesn't have actual economic value.
+There is a total supply of 25 million tokens: one million are retained by the team, four million are for providing liquidity, and 20 million for community distribution via airdrop.
+
+![image](https://github.com/MathmanSec/MatchmanSec-Token/assets/140636689/2d0481bf-eec1-4128-8d36-5e8594cba227)
+
+It's deployed on the Binance Smart Chain at: https://bscscan.com/address/0x7048a36306740232057409f32fff29e196506965
+The contract address is: 0x7048a36306740232057409f32fff29e196506965
+![image](https://github.com/MathmanSec/MatchmanSec-Token/assets/140636689/a183f49a-187c-4933-b235-ccd6c7d665c9)
+All contract code is open source and can be queried at: https://bscscan.com/token/0x7048a36306740232057409f32fff29e196506965#code
+
+
+## Project Purpose
+
+This project aims to explore the application of virtual currencies in team management and decision-making processes. Through this method, we hope to allow our team members to participate more directly in the decision-making process, while also providing us with an opportunity to observe and understand how virtual currencies operate.
+
+## How to Acquire MatchmanSec-Token
+
+Currently, the token is not listed on any CEX or DEX. The team is in communication with exchanges and secondary market project teams. The only way to acquire MatchmanSec-Token is through participation in various MatchmanSec team activities.
+
+## How to Use MatchmanSec-Token
+
+In the future, we plan to launch operations in DAO mode. Holders of MatchmanSec-Token will be able to use their tokens to participate in our team's decision-making process (voting).
+
+## Feedback and Support
+
+We welcome feedback and suggestions of all types. If you encounter any issues while using MatchmanSec-Token, or have any suggestions or ideas, please visit our issues page.
+
+## Team Development Plan
+![image](https://github.com/MathmanSec/MatchmanSec-Token/assets/140636689/7a45cefc-3ed8-4576-bed1-f74ed42c28cd)
+
 
 
 # MatchmanSec-Token
@@ -5,7 +37,8 @@
 MatchmanSec-Token是由MatchmanSec团队开发并管理的虚拟货币项目。它被设计用来进行团队管理，使持有者能够参与团队投票决策。请注意，这是一个社会实验，MatchmanSec-Token本身并没有实际经济价值。
 总量为两千五百万 一百万团队保留 四百万用于提供流动性 两千万用于社区分发空投
 
-![$7V~4CCJF`3V}(M6BYSDEUR](https://github.com/MathmanSec/MatchmanSec-Token/assets/140636689/34d61014-e5b7-41de-8780-690cf08c8e43)
+![image](https://github.com/MathmanSec/MatchmanSec-Token/assets/140636689/2ee58def-fc43-466a-b6ae-82edc9b9f583)
+
 
 
 
